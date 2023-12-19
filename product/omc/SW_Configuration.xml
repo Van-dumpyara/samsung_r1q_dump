@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-A805F</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>OWO</MultiCode>
+    <CustomerDataSet>
+        <CSCName>A805FOWO</CSCName>
+        <CSCVersion>7DWF5</CSCVersion>
+        <NbCustomer>11</NbCustomer>
+        <CustomerData src="/Customer/ARO/customer.xml" />
+        <CustomerData src="/Customer/BVO/customer.xml" />
+        <CustomerData src="/Customer/CHO/customer.xml" />
+        <CustomerData src="/Customer/COO/customer.xml" />
+        <CustomerData src="/Customer/EON/customer.xml" />
+        <CustomerData src="/Customer/GTO/customer.xml" />
+        <CustomerData src="/Customer/MXO/customer.xml" />
+        <CustomerData src="/Customer/PEO/customer.xml" />
+        <CustomerData src="/Customer/TPA/customer.xml" />
+        <CustomerData src="/Customer/UPO/customer.xml" />
+        <CustomerData src="/Customer/ZTO/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>ARO</CustomerCode>
+            <Version>SAOMC_SM-A805F_OWO_ARO_RR_0016</Version>
+            <CustomerEdition>ED0015</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>BVO</CustomerCode>
+            <Version>SAOMC_SM-A805F_OWO_BVO_RR_0023</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>CHO</CustomerCode>
+            <Version>SAOMC_SM-A805F_OWO_CHO_RR_0017</Version>
+            <CustomerEdition>ED0011</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>COO</CustomerCode>
+            <Version>SAOMC_SM-A805F_OWO_COO_RR_0017</Version>
+            <CustomerEdition>ED0013</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>EON</CustomerCode>
+            <Version>SAOMC_SM-A805F_OWO_EON_RR_0020</Version>
+            <CustomerEdition>ED0014</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>GTO</CustomerCode>
+            <Version>SAOMC_SM-A805F_OWO_GTO_RR_0028</Version>
+            <CustomerEdition>ED0019</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>MXO</CustomerCode>
+            <Version>SAOMC_SM-A805F_OWO_MXO_RR_0031</Version>
+            <CustomerEdition>ED0018</CustomerEdition>
+            <Packages>
+                <package name="com.samsung.memberswallet" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>PEO</CustomerCode>
+            <Version>SAOMC_SM-A805F_OWO_PEO_RR_0017</Version>
+            <CustomerEdition>ED0011</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>TPA</CustomerCode>
+            <Version>SAOMC_SM-A805F_OWO_TPA_RR_0028</Version>
+            <CustomerEdition>ED0025</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>UPO</CustomerCode>
+            <Version>SAOMC_SM-A805F_OWO_UPO_RR_0027</Version>
+            <CustomerEdition>ED0020</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>ZTO</CustomerCode>
+            <Version>SAOMC_SM-A805F_OWO_ZTO_RR_0036</Version>
+            <CustomerEdition>ED0023</CustomerEdition>
+            <Packages>
+                <package name="com.samsung.shop" />
+                <package name="com.odete.samsung" />
+            </Packages>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>
